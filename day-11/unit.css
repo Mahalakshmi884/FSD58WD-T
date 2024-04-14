@@ -1,0 +1,31 @@
+html {
+    font-size: 24px;
+}
+p {
+    width: 3ch;
+}
+#parent {
+    width: 75%;
+    border: 2px solid lightgray;
+}
+
+#red {
+    width: 50%;
+    background-color: red;
+}
+
+#blue {
+    width: 75vw;
+    background-color: blue;
+}
+
+#green {
+    font-size: 16px;
+    width: 10em;
+    background-color: green;
+}
+
+div{
+    margin: 10px;
+    color: white;
+}
